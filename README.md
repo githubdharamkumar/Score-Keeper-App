@@ -1,1 +1,2 @@
-# Score-Keeper-App
+# Score-Keeper-React-App 
+for run ###npm start
